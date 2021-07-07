@@ -1,2 +1,2 @@
 Some text佛如
-changes from master
+changes from master - new changes!
